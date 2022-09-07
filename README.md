@@ -1,1 +1,1 @@
-# covidapp
+# covidWatch
